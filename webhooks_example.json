@@ -1,0 +1,16 @@
+{
+    "webhooks": [
+      {
+        "name": "Webhook1",
+        "avatar": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/130120312/original/e977abd204b98fae6500f05e7d814e2e94d6b906/create-a-discord-bot-just-for-you.png"
+      },
+      {
+        "name": "Webhook2",
+        "avatar": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/130120312/original/e977abd204b98fae6500f05e7d814e2e94d6b906/create-a-discord-bot-just-for-you.png"
+      },
+      {
+        "name": "Webhook3"
+      }
+    ]
+  }
+  
