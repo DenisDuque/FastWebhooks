@@ -11,7 +11,7 @@ FastWebhooks is a Discord bot that allows the creation of multiple webhooks in a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tu-usuario/fastwebhooks.git
+   git clone https://github.com/DenisDuque/FastWebhooks.git
    ```
 2. **Navigate to the project directory**
 
