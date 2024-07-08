@@ -66,3 +66,7 @@ Start the bot using the following command:
 
 **/setup**\
 Create multiple webhooks in this channel using a JSON file.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
